@@ -1,0 +1,42 @@
+[submodule "dev-compartilhados/start/vim-rest-console"]
+	path = dev-compartilhados/start/vim-rest-console
+	url = https://github.com/diepm/vim-rest-console.git
+[submodule "dev-compartilhados/start/auto-pairs"]
+	path = dev-compartilhados/start/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "dev-compartilhados/start/vim-auto-popmenu"]
+	path = dev-compartilhados/start/vim-auto-popmenu
+	url = https://github.com/skywind3000/vim-auto-popmenu.git
+[submodule "dev-compartilhados/start/vim-dict"]
+	path = dev-compartilhados/start/vim-dict
+	url = https://github.com/skywind3000/vim-dict.git
+[submodule "dev-compartilhados/start/ctrlp.vim"]
+	path = dev-compartilhados/start/ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim.git
+[submodule "dev-git/start/vim-fugitive"]
+	path = dev-git/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "dev-git/start/vim-gitgutter"]
+	path = dev-git/start/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter.git
+[submodule "dev-git/start/gv.vim"]
+	path = dev-git/start/gv.vim
+	url = https://github.com/junegunn/gv.vim.git
+[submodule "dev-php/start/vim-php-refactoring-toolbox"]
+	path = dev-php/start/vim-php-refactoring-toolbox
+	url = https://github.com/adoy/vim-php-refactoring-toolbox.git
+[submodule "uteis/start/vim-startify"]
+	path = uteis/start/vim-startify
+	url = https://github.com/mhinz/vim-startify.git
+[submodule "uteis/start/vimwiki"]
+	path = uteis/start/vimwiki
+	url = https://github.com/vimwiki/vimwiki.git
+[submodule "uteis/start/vim-boxdraw"]
+	path = uteis/start/vim-boxdraw
+	url = https://github.com/gyim/vim-boxdraw.git
+[submodule "diversos/start/Tortoise-Typing"]
+	path = diversos/start/Tortoise-Typing
+	url = https://github.com/thanthese/Tortoise-Typing.git
+[submodule "diversos/start/goyo.vim"]
+	path = diversos/start/goyo.vim
+	url = https://github.com/junegunn/goyo.vim.git
